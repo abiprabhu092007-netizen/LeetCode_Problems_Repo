@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
+| [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 ## Matrix
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1678-goal-parser-interpretation) |
 ## Hash Table
 |  |
