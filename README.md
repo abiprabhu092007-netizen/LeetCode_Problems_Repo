@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Matrix
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
