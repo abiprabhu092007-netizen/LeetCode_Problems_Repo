@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1070-product-sales-analysis-iii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1070-product-sales-analysis-iii) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
