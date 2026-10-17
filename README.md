@@ -56,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
