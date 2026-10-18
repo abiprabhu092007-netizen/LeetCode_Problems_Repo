@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2413-smallest-even-multiple) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
