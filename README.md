@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
