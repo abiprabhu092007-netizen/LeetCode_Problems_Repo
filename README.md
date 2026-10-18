@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2652-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
