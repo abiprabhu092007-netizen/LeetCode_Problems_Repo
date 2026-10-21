@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
