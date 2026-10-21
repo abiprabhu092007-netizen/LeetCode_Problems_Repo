@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
 | ------- |
