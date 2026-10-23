@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
