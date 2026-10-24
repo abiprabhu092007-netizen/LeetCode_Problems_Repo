@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
