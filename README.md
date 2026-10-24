@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0875-koko-eating-bananas) |
 ## Database
 |  |
@@ -107,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
 | ------- |
