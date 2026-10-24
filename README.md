@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0875-koko-eating-bananas) |
 ## Database
 |  |
 | ------- |
