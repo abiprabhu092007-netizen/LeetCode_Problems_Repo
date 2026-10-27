@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0300-longest-increasing-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0713-subarray-product-less-than-k) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
