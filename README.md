@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0134-gas-station) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0881-boats-to-save-people) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
