@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0300-longest-increasing-subsequence) |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0881-boats-to-save-people) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
