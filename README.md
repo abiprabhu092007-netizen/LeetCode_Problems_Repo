@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0771-jewels-and-stones) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
