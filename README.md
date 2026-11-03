@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1528-shuffle-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/abiprabhu092007-netizen/LeetCode_Problems_Repo/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
